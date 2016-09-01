@@ -9271,3 +9271,21 @@ ul.relatedtags-menu {
   background:url(http://interactive.aljazeera.com/aje/2016/un-debate-secretary-general/images/bg.jpg?crc=173850099) no-repeat top center;
   background-size: 100% 490px;
 }
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  font-family: 'HelveticaNeueLTPro-Bd', Helvetica Neue, Helvetica, Arial, sans-serif !important;
+    font-size: 18px;
+    font-weight: normal;
+    color: #000;
+    border: transparent;
+    background-color: transparent;
+    /* text-transform: uppercase; */
+    font-weight: bold;
+}
+
+ul.nav.nav-tabs{
+  padding:0px;
+}
+ul.nav.nav-tabs{
+  border-bottom: 3px solid #eb7716;
+}
